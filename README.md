@@ -1,8 +1,17 @@
 <h1 align="center">Hello 👋, I'm Kashish Jethmalani</h1>
 <img align="right" alt="Coding" width="400" src="https://community.wacom.com/us/wp-content/uploads/2020/07/LoFi-Girl.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashishjethmalani&label=Profile%20views&color=0e75b6&style=flat" alt="kashishjethmalani" /> </p>
+<b>
+  Kashish is a sophomore pursuing Computer Science and Engineering at Ahmedabad University (Class of 2025). Being a tech enthusiast, she is quite proficient in C++ and Java and also does web development. As of now, she is sharpening her problem-solving skills and doing her daily practice to develop a strong grasp of Data Structures and Algorithms. Apart from this, she is willing to learn and improve her skills with every opportunity that comes her way.
 
+ <br>
+  
+ You can reach out to her at: kashishj1203@gmail.com
+  <br>
+</b>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashishjethmalani" alt="kashishjethmalani" /></a> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/kashish__j" target="blank"><img src="https://img.shields.io/twitter/follow/kashish__j?logo=twitter&style=for-the-badge" alt="kashish__j" /></a> </p>
 
