@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://community.wacom.com/us/wp-content/uploads/2020/07/LoFi-Girl.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashishjethmalani&label=Profile%20views&color=0e75b6&style=flat" alt="kashishjethmalani" /> </p>
 <b>
-  Kashish is a sophomore pursuing Computer Science and Engineering at Ahmedabad University (Class of 2025). Being a tech enthusiast, she is quite proficient in C++ and Java and also does web development. As of now, she is sharpening her problem-solving skills and doing her daily practice to develop a strong grasp of Data Structures and Algorithms. Apart from this, she is willing to learn and improve her skills with every opportunity that comes her way.
+  Kashish is a final year student pursuing Computer Science and Engineering at Ahmedabad University (Class of 2025). Being a tech enthusiast, she is quite proficient in C++ and Java and also does web development. As of now, she is sharpening her problem-solving skills and doing her daily practice to develop a strong grasp of Data Structures and Algorithms. Apart from this, she is willing to learn and improve her skills with every opportunity that comes her way.
 
  <br>
   
